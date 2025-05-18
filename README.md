@@ -1,4 +1,4 @@
-# 🚘 Plate Scan Pro – License Plate Detection and OCR System
+# 🚘 Plate Scan  – License Plate Detection and OCR System
 
 **Plate Scan Pro** is an intelligent application that detects license plates from images and extracts their text using deep learning (YOLOv8) and Optical Character Recognition (OCR) with support for both Arabic and English languages. The project also features an interactive dark-themed GUI built using Tkinter.
 
@@ -37,3 +37,19 @@
 - [Python Pillow (PIL)](https://pillow.readthedocs.io/)
 
 ---
+
+## 🖥️ How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone 
+## 🖥️ How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/platescanpro.git
+cd platescanpro
+
+
